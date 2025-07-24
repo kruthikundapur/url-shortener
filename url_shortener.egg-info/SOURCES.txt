@@ -1,0 +1,10 @@
+setup.py
+app/__init__.py
+app/api.py
+app/core.py
+tests/tests_api.py
+url_shortener.egg-info/PKG-INFO
+url_shortener.egg-info/SOURCES.txt
+url_shortener.egg-info/dependency_links.txt
+url_shortener.egg-info/requires.txt
+url_shortener.egg-info/top_level.txt
