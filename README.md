@@ -19,7 +19,7 @@ cd url-shortener
 pip install -r requirements.txt
 
 # Start the application
-python -m flask --app app.main run
+python -m flask --app app.api run
 
 # The API will be available at http://localhost:5000
 # Run tests with: pytest

@@ -11,7 +11,7 @@ setup(
     description="A Python URL shortener service",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/url-shortener",
+    url="https://github.com/kruthikundapur/url-shortener",
     packages=find_packages(include=["app", "app.*"]),
     install_requires=[
         "flask>=2.0.0",

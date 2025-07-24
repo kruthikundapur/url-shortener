@@ -1,1 +1,6 @@
 flask>=2.0.0
+validators>=0.18.0
+shortuuid>=1.0.0
+
+[mongodb]
+pymongo>=4.0.0
